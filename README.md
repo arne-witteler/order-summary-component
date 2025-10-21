@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution](https://your-solution-url.com)
-- Live Site URL: [Live demo](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution](https://github.com/arne-witteler/order-summary-component)
+- Live Site URL: [Live demo](https://order-summary-component-iota-ruddy.vercel.app)
 
 ## My process
 
