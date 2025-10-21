@@ -4,8 +4,12 @@
   --color-blue-700: hsl(245, 75%, 52%);
   --color-grey-600: hsl(224, 23%, 55%);
   --color-blue-950: hsl(223, 47%, 23%);
-  
+
   --font-size-p: 16px;
   --font-size-h1: 18px;
   --font-size-h2: 14px;
+
+  --font-weight-regular: 500;
+  --font-weight-bold: 700;
+  --font-weight-extra-bold: 900;
 }
