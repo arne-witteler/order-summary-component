@@ -3,9 +3,14 @@
 :root {
   --color-blue-50: hsl(225, 100%, 98%);
   --color-blue-100: hsl(225, 100%, 94%);
+  --color-blue-150: hsl(224, 93%, 88%);
   --color-blue-700: hsl(245, 75%, 52%);
   --color-grey-600: hsl(224, 23%, 55%);
   --color-blue-950: hsl(223, 47%, 23%);
+  --color-purple-500: hsl(245, 83%, 68%);
+
+  --color-white: hsl(0, 0%, 100%);
+  --color-black: hsl(0, 0%, 0%);
 
   --font-size-p: 16px;
   --font-size-h1: 18px;
